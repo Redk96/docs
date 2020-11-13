@@ -1,8 +1,27 @@
-# ... headline tbd ...
+Social currency for Launcher: $Angel
+Proposal:
+Create an Information Exchange Platform for token Launches. Trading Interface> AMM pools> Community Forum.
+RAPID/LAUNCHER/COMMUNITY
 
-$Angel is a social currency that is backed by community supported launches from Ben’s trusted and fair project launcher model, embodying fair and distributed cap tables for the projects our community love.
+Angel token Use case:
+
+permissioned discord acccess to "Dragons Den" for token issuance
+receive airdrops for projects launched over Angelswap.io
+deposit ETH in vault for $Angel which gives % share of $Angel. Early ETH stakers % share is diluted at a lesser rate than later stakers.. refferals.  
  
-There will only ever be a maximum of 10 million $Angels ever created, with the launch value of each $Angel being underpinned by a basket of some of the rarest and sought after initial dex offering tokens  in the industry ("The Vault").
+
+
+
+Community Vault holds airdrops of Launched projects ... can divest over AngelSwap... or redeem and divest upon uniswap listing 
+
+Community help to to grow and support their investments before opening of liquidity pools on UNI.
+
+$Angel is a social engagement and airdrop currency pairing both investors and entrepreneurs looking to raise capital ... a community driven "dragons den" 
  
-The Vault is only one dimension that defines the value of $Angel as a Social Currency. More important to the project is the growth of the community, the growth of $Angel as a brand, and the growth of use cases for $Angel as a Social Currency.
-i dont want to call it an ETF
+There will only ever be a maximum of 10 million $Angels ever created, with the value of each $Angel being underpinned by a basket of community certified launches held in the community Vault(s)
+ 
+Another dimension to the $Angel's value is the access granted to Defi Prophets Incubator and community investment capital and the growth of $Angel as a brand.
+
+Staked $Angel Tokens give communtiy members access to voting and community discussion groups and facilitate the issuance of other NFT and independant community pools. Of which launches over  Angel swap feed back to all staked $Angel holders
+
+further iterations on its usecases within the Defi ecosystem
